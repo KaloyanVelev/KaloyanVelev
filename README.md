@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/KaloyanVelev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaloyanVelev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Kaloqn Velev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaloqn Velev" height="30" width="40" /></a>
-<a href="https://discord.gg/kappa09321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kappa09321" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaloqn-velev-35454638b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaloqn Velev" height="30" width="40" /></a>
+<a href="https://discord.gg/SNdnT83P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kappa09321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
