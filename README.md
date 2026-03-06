@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **A communication api with local LLM's**
 
-- 🌱 I'm currently learning **Java, C#, Python, SQL**
+- 🌱 I'm currently actively learning **Java, C#, Python, SQL**
 
 - 🤝 I'm looking for help with **Learning system design**
 
